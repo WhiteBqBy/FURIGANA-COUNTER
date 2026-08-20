@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://furigana-counter.vercel.app/sitemap.xml
